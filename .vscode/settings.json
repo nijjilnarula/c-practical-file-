@@ -3,5 +3,8 @@
     "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
     "code-runner.saveFileBeforeRun": true,
     "code-runner.saveAllFilesBeforeRun": true,
-    "notebook.experimental.remoteSave": false
+    "notebook.experimental.remoteSave": false,
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
